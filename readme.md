@@ -27,8 +27,8 @@ This project is a social networking application built with Django. It allows use
 To get a copy of the project up and running on your local machine, follow these steps:
 
 ```bash
-git clone 
-cd social-app
+git clone https://github.com/Favas1997/social_app.git
+cd social_app
 ```
 
 
